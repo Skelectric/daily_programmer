@@ -16,8 +16,7 @@ fn lettersum(str: &str) -> u32 {
     let offset: u32 = 'a'.into();
     let chars: Vec<char> = str.chars().collect();
     for char in chars {
-        let _char : char = char.to_owned();
-        let ord: u32 = _char.into();
+        let ord: u32 = char.into();
         sum += ord - offset + 1;
     }
     sum

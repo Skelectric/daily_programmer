@@ -2,9 +2,19 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/challenge_397/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/challenge_399/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/challenge_396/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/challenge_392/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/challenge_393/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/challenge_395/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
       <excludeFolder url="file://$MODULE_DIR$/challenge_399/target" />
+      <excludeFolder url="file://$MODULE_DIR$/challenge_397/target" />
+      <excludeFolder url="file://$MODULE_DIR$/challenge_395/target" />
+      <excludeFolder url="file://$MODULE_DIR$/challenge_396/target" />
+      <excludeFolder url="file://$MODULE_DIR$/challenge_393/target" />
+      <excludeFolder url="file://$MODULE_DIR$/challenge_392/target" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.10 (dev)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
